@@ -5,7 +5,7 @@
 // ============================================
 
 // ▼▼▼ СЮДА ВСТАВЬ АДРЕС СВОЕГО СЕРВЕРА ▼▼▼
-const SERVER_URL = "wss://your-server.up.railway.app";
+const SERVER_URL = "https://messenger-server-production-1e78.up.railway.app/";
 // ▲▲▲ Пример: "wss://my-messenger-production.up.railway.app" ▲▲▲
 
 // ── Состояние ────────────────────────────────
